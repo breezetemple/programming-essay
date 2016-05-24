@@ -14,14 +14,14 @@
 * 《算法导论》
 * 《重构：改善既有代码的设计》
 * 《设计模式》
-* ~~《人月神话》~~
+* {% em color="#ff0000" %}*《人月神话》*{% endem %}
 * 《计算机程序设计艺术》
 * 《编译原理》（龙书）
 * 《深入浅出设计模式》
 * 《哥德尔、艾舍尔、巴赫书：集异璧之大成》
 * 《代码整洁之道》
 * 《Effective C++》和《More Effective C++》
-* ~~《编程珠玑》~~
+* {% em color="#ff0000" %}*《编程珠玑》*{% endem %}
 * 《修改代码的艺术》by Michael Feathers
 * 《编码：隐匿在计算机软硬件背后的语言》
 * 《禅与摩托车维修艺术 / Zen and the Art of Motorcycle Maintenance》
