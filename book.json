@@ -1,0 +1,43 @@
+{
+    "author": "Breeze.Temple",
+    "description": "Breeze.Temple's Programming Essay",
+    "extension": null,
+    "generator": "site",
+    "isbn": null,
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        }
+    },
+    "output": null,
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "plugins": [
+        "js-sequence-diagram",
+        "mermaid",
+        "-mathjax",
+        "puml",
+        "katex",
+        "emphasize",
+        "include-codeblock",
+        "splitter",
+        "codeblock-filename"
+    ],
+    "title": "Breeze.Temple's Programming Essay",
+    "variables": {}
+}
