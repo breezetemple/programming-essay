@@ -19,7 +19,7 @@
 * 《编译原理》（龙书）
 * 《深入浅出设计模式》
 * 《哥德尔、艾舍尔、巴赫书：集异璧之大成》
-* 《代码整洁之道》
+* {% em color="#ff0000" %}*《代码整洁之道》*{% endem %}
 * 《Effective C++》和《More Effective C++》
 * {% em color="#ff0000" %}*《编程珠玑》*{% endem %}
 * 《修改代码的艺术》by Michael Feathers
