@@ -29,14 +29,19 @@
     "plugins": [
         "js-sequence-diagram",
         "mermaid",
-        "-mathjax",
         "puml",
-        "katex",
         "emphasize",
         "include-codeblock",
         "splitter",
-        "codeblock-filename"
+        "codeblock-filename",
+        "toc2"
     ],
+    "pluginsConfig": {
+        "toc2": {
+            "addClass": true,
+            "className": "toc"
+        }
+    },
     "title": "Breeze.Temple's Programming Essay",
     "variables": {}
 }
