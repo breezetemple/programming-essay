@@ -23,7 +23,7 @@
 * 《Effective C++》和《More Effective C++》
 * {% em color="#ff0000" %}*《编程珠玑》*{% endem %}
 * 《修改代码的艺术》by Michael Feathers
-* 《编码：隐匿在计算机软硬件背后的语言》
+* {% em color="#ff0000" %}*《编码：隐匿在计算机软硬件背后的语言》*{% endem %}
 * 《禅与摩托车维修艺术 / Zen and the Art of Motorcycle Maintenance》
 * 《Peopleware / 人件集:人性化的软件开发》
 * 《Coders at Work / 编程人生》
@@ -36,7 +36,6 @@
 * 《Practices of an Agile Developer / 高效程序员的45个习惯：敏捷开发修炼之道》
 * 《Test-Driven Development by Example. / 测试驱动开发》
 * 《Don’t Make Me Think / 点石成金:访客至上的网页设计秘笈》
-
 
 ## 原版
 

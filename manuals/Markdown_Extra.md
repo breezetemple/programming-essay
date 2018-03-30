@@ -1,0 +1,15 @@
+# Markdown Extra GFM
+
+1. [CSDN-markdown扩展语法说明](http://blog.csdn.net/lanxuezaipiao/article/details/44280413)
+2. [扩展语法](http://xianbai.me/learn-md/article/extension/readme.html)
+3. [Writing on GitHub](https://help.github.com/categories/writing-on-github/)
+4. [Markdown的各种扩展](https://segmentfault.com/a/1190000000601562)
+5. [多种 Markdown 解析器功能探索](http://gold.xitu.io/entry/56ce79db1532bc0053728c2f)
+6. [kramdown Syntax](http://kramdown.gettalong.org/syntax.html)
+7. [Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+8. [讲解 Markdown](http://alfred-sun.github.io/blog/2015/01/10/markdown-syntax-documentation/)
+9. [Jekyll kramdown配置](http://www.tuicool.com/articles/rAnmQvB)
+10. [为 Octopress 添加 TOC ](http://loudou.info/blog/2014/08/01/wei-octopress-tian-jia-toc/)
+11. [kramdown Documentation](http://kramdown.gettalong.org/documentation.html)
+12. [Jekyll x kramdown TOC 目录生成](http://szhshp.org/tech/2015/11/18/jekyllmarkdowntoc.html)
+13. [GitBook Table Of Content Plugin](https://github.com/boycgit/gitbook-plugin-gtoc)
